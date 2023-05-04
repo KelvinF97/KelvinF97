@@ -1,23 +1,37 @@
-### Hi there 👋
+## Telegram [![img](https://camo.githubusercontent.com/4d0b01fdd018a05fe6c6e622593e57ae09da7a0b78d7423c1d5c2ff24b4a7b91/68747470733a2f2f73382e67696679752e636f6d2f696d616765732f3937393434373232303832393033323437382e676966)](https://camo.githubusercontent.com/4d0b01fdd018a05fe6c6e622593e57ae09da7a0b78d7423c1d5c2ff24b4a7b91/68747470733a2f2f73382e67696679752e636f6d2f696d616765732f3937393434373232303832393033323437382e676966) - [t.me/kainstan](https://t.me/kainstan)
 
-<!--
-**kainstan/kainstan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![img](https://camo.githubusercontent.com/13780b78c0cbe6a8020c18ad60271e5d1f4bb3de2a3fa80eb4730e4c10c9380c/68747470733a2f2f6c616e796172642e636e7261642e6465762f6170692f3834303534313534303230333632363531362f)](https://camo.githubusercontent.com/13780b78c0cbe6a8020c18ad60271e5d1f4bb3de2a3fa80eb4730e4c10c9380c/68747470733a2f2f6c616e796172642e636e7261642e6465762f6170692f3834303534313534303230333632363531362f)
 
-Here are some ideas to get you started:
+```python
+class Attributes(Kainstan):
+	@staticmethod
+	def contact() -> tuple:
+	    telegram = "t.me/kainstan"
+	    email    = "dakun.work@gmail.com"
+	    
+	    return telegram, email
+    
+  @staticmethod
+	def life() -> tuple:
+      langs        = ['Chinese', 'English']
+      evergreen    = ['brain-computer interface', 'neuroscience'] 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      return langs, evergreen
+	
+	@staticmethod
+	def coding() -> tuple:
+      langs = {
+        'expert':   ['python'],
+        'intermediate': ['go', 'js', 'c', 'c++', 'c#', 'php', 'java'],
+        'learning': ['...']
+      }
+      specialities = ['Artificial Intelligence', 'Web/App Reverse Engineering', 
+                      'Fullstack', 'Cloud Native R&D', 'Network Engineer']
 
+      return langs, specialities
+```
 
-Telegram  Group - t.me/kainstan
+## Skills
 
-
-
+[![My Skills](https://skillicons.dev/icons?i=python,golang,ts,js,nodejs,vue,c,cpp,cmake,cs,dotnet,php,java,flutter,bash,html,wordpress,css,wasm,pytorch,tensorflow,qt,redis,mysql,mongodb,linux,kubernetes,nginx,raspberrypi)](https://skillicons.dev)
 
