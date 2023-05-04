@@ -2,6 +2,8 @@
 
 
 
+
+
 ```python
 class Attributes(Kainstan):
 	@staticmethod
