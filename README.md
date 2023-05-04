@@ -17,9 +17,9 @@ class Attributes(Kainstan):
     evergreen    = ['brain-computer interface', 'neuroscience'] 
     
     return langs, evergreen
-	
-	@staticmethod
-	def coding() -> tuple:
+
+  @staticmethod
+  def coding() -> tuple:
     langs = {
       'expert':   ['python'],
       'intermediate': ['go', 'js', 'c', 'c++', 'c#', 'php', 'java'],
