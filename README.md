@@ -5,14 +5,14 @@
 ```python
 class Attributes(Kainstan):
   @staticmethod
-	def contact() -> tuple:
+  def contact() -> tuple:
     telegram = "t.me/kainstan"
     email    = "dakun.work@gmail.com"
     
     return telegram, email
     
   @staticmethod
-	def life() -> tuple:
+  def life() -> tuple:
     langs        = ['Chinese', 'English']
     evergreen    = ['brain-computer interface', 'neuroscience'] 
     
