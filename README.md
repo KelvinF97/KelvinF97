@@ -1,12 +1,12 @@
-<h2 align="center">Telegram <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> -  <a href="https://t.me/kainstan">t.me/kainstan</a></h2>
+<h2 align="center">Telegram <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> -  <a href="https://t.me/KelvinF97">t.me/KelvinF97</a></h2>
 
 
 
 ```python
-class Attributes(Kainstan):
+class Attributes(KelvinF97):
   @staticmethod
   def contact() -> tuple:
-    telegram = "t.me/kainstan"
+    telegram = "t.me/KelvinF97"
     email    = "dakun.work@gmail.com"
     
     return telegram, email
